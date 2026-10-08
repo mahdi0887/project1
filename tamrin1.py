@@ -5,6 +5,7 @@ print ("favorite color: bluo")
 
 a = 10
 b = 4
+b = 5
 print ("Plus:", a+b)
 print ("tafrigh:",a-b)
 print ("zarb:", a*b)
@@ -12,3 +13,8 @@ print ("taghsim:", a/b)
 print ("taghsim sahih:", a//b)
 print ("baghimande:", a%b)
 print ("tavan:", a**b)
+
+a="10"
+age= int(a)
+print (type(age),type(a))
+
